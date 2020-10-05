@@ -169,6 +169,7 @@
 
     <!-- Navbar length -->
     <string name="navbar_length">Gesture bar length</string>
+	<string name="hidden_label">Hidden</string>
     <string name="short_label">Short</string>
 
 </resources>
